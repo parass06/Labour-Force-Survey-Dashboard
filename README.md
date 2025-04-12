@@ -31,3 +31,10 @@ Dashboard Preview![Screenshot 2025-04-12 162930](https://github.com/user-attachm
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Use the filters and visuals to explore trends and insights.
 4. Modify or extend the report for further analysis as needed.
+   
+**Contributors**
+- Paras Mahajan
+- Shubneet
+- Anushka Raj Yadav
+- Swansh Shree
+- Gautam Sharma
